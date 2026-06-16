@@ -1,7 +1,7 @@
 # Voxel Sandbox — Three.js Flow (Minecraft-style)
 
 A browser-based, Minecraft-style voxel sandbox that runs with **no build step**, **offline**, and
-previews in VS Code's **Simple Browser**. This README documents an architecture/flow that works —
+previews in VS Code's **Integrated Browser**. This README documents an architecture/flow that works —
 read it before building, or hand it to the agent as grounding context alongside `/minecraft-plan`.
 
 > **Stack:** plain **Three.js** (vendored, ES modules via import map). No bundler, no framework.
